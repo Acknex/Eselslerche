@@ -1,0 +1,50 @@
+Log of A8 Engine 8.20.1 run at Fri Jun 15 23:46:59 2012
+Firo on Windows NT/2000/XP version 6.1 Build 7601
+Options main.c -lrvl e:\projects\Acknex\projectdta\editor\level.lvl -diag -nx 60 -ta
+App: D:\acknex8\acknex.exe in E:\projects\Acknex\playground\enginevergleich\
+
+MM mixer opened
+DSOUND device opened
+DI interface opened
+Start Window opened(c) Conitec - www.3dgamestudio.com
+A8 Engine - Pro Edition V8.20.1 - May 12 2011
+Development version
+Registered to: Robert Jäger
+
+Mouse found
+Lautsprecher (Realtek High Definition Audio) opened
+NVIDIA GeForce GTX 460 pure T&L device 1ff9 detected
+D3D device NVIDIA GeForce GTX 460 1ff9 selected.
+basswrap.dll opened
+acknet.dll opened
+ackphysx.dll opened
+ackwii.dll opened
+Compiling MAIN.C - [Esc] to abort.....
+PATH xtoolbox\.............
+actorCamera: function not found
+actorPose: function not found... 0.259 sec
+Running MAIN.C.
+2 objects
+Main started at 1.457
+D3D_Init Window: 720x480 -> Window: 1x720x480x32
+Video memory found: 4054 MB
+LevelInit at 1.501
+55 entities 0 cameras 0 lights 0 sounds 0 paths
+ 1 lmaps 0 textures...ok
+LevelReady at 2.053
+def_startup started
+materials_startup started
+Main loop at 2.139....
+1st frame with 4054 MB.. at 2.365
+D3D_Resize Window: 1024x768 -> Window: 1x1024x768x32
+D3D_Resize Window: 1280x800 -> Window: 1x1280x800x32
+HEADRELATIVE sound: 1
+Normal exit at 46.755
+Close level,DLL,objects
+Free input,funcs,panels,defs,syns,views,strings,vars..ok
+Free sounds,bmaps,fonts,hash,defs1,script..ok
+Close dx,multimedia,D3D,engine,nexus..ok
+A8 Engine - Pro Edition V8.20.1 - May 12 2011
+(c) Conitec - www.3dgamestudio.com
+Registered to: Robert Jäger
+Close window at 47.769
